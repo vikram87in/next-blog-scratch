@@ -1,0 +1,14 @@
+{
+  "name": "next-blog-scratch",
+  "version": "1.0.0",
+  "private": true,
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
